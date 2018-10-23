@@ -1,5 +1,7 @@
 ## Python Audio Info
 
+![picture](https://image.ibb.co/j6KyDA/Screenshot-2018-10-24-at-12-44-54-AM.png)
+
 #### Installing
 Clone the repository to your local system.   
 
